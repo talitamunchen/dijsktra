@@ -1,6 +1,7 @@
-// Dijkstra 
+// Dijkstra - Talita Munchen
+//Predios Uniritter Fapa
 #include <stdio.h>
-#include <limits.h> //defines!
+#include <limits.h> 
  
 // Numero de vértices
 #define V 8
